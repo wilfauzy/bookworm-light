@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/bookworm-light/"
+baseURL = "https://kandangbabi.netlify.app"
 title = "Bookworm - Personal Blog Template"
 theme = "bookworm-light"
 # post pagination
@@ -9,7 +9,7 @@ summaryLength = "20"
 # google analytics
 googleAnalytics = "" # example : UA-123-45
 # disqus short name
-disqusShortname = "themefisher-template" # get your shortname form here : https://disqus.com
+disqusShortname = "wildanfauzy" # get your shortname form here : https://disqus.com
 
 ############################# Modules ##############################
 [module.hugoVersion]
